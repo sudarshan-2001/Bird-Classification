@@ -1,3 +1,3 @@
-# Bird-Classification
+# The Avian Eye
 
-We are having fun - Keras and all 
+
